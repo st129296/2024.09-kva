@@ -1,0 +1,5 @@
+﻿  task3.cpp
+C:\repos\homework2-28.09\task3\task3.cpp(20,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\repos\homework2-28.09\task3\task3.cpp(21,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\repos\homework2-28.09\task3\task3.cpp(22,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  task3.vcxproj -> C:\repos\homework2-28.09\x64\Debug\task3.exe

@@ -1,0 +1,3 @@
+﻿  task1.cpp
+C:\repos\homework2-28.09\task1\task1.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  task1.vcxproj -> C:\repos\homework2-28.09\x64\Debug\task1.exe
